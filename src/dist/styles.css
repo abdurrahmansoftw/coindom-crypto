@@ -11,7 +11,7 @@ html {
 
 body {
   position: relative;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: 'Rajdhani', sans-serif;
 }
 
 a {
@@ -85,7 +85,7 @@ a {
   }
 }
 nav {
-  font-family: "Space Grotesk", sans-serif;
+  font-family: 'Rajdhani', sans-serif;
   position: absolute;
   top: 0;
   right: 0;
@@ -384,7 +384,7 @@ nav a {
 }
 .slider-coin__name {
   font-weight: 600;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: 'Rajdhani', sans-serif;
 }
 .slider-coin__name span {
   color: rgb(14, 203, 129);
